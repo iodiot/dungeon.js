@@ -1,4 +1,4 @@
 # dungeon.js
 3d dungeon runner.
 
-![Alt text](/Screenshots/1.png?raw=true "Screenshot")
+![Alt text](/Screenshots/1.jpg?raw=true "Screenshot")
